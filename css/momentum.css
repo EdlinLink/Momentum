@@ -16,12 +16,27 @@ body {
 	text-align:center;
 	position: absolute;
 	top:20%;
-	left:30%;
-	width:40%;
+	left:0%;
+	width:100%;
 }
 
 .middle h1{
 	color: white;
 	font-size: 1400%;
 	font-family :Sans-serif ;
+}
+
+.above{
+	text-align:center;
+	position: absolute;
+	top:25%;
+	left:0%;
+	width:100%;
+}
+
+.above h2{
+	color: white;
+	font-size: 300%;
+	font-family :Sans-serif ;
+	text-shadow: 2px 2px 20px #E8E8E8;
 }
